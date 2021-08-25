@@ -5282,3 +5282,12 @@ html.gap-outside #header .header-container:after {
 		max-width: 80%;
 	}
 }
+
+
+.tab-container {
+    padding: 50px 0;
+}
+
+.column-12, .wrapper-full {
+    width: 100%;
+}
